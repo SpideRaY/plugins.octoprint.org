@@ -1,4 +1,4 @@
-⸻
+---
 
 layout: plugin
 
@@ -32,14 +32,14 @@ tags:
 * print monitoring
 
 compatibility:
-python: “>=3.11,<4”
+  python: “>=3.11,<4”
 
 attributes:
 
 * cloud
 * ai-developed
 
-⸻
+---
 
 Tapo Auto Shutdown automatically controls two compatible TP-Link Tapo smart plugs: one for the 3D printer and an optional separate plug for the OctoPi Raspberry Pi. After a completed print, the plugin manages printer shutdown and can shut down the Raspberry Pi cleanly before switching off its plug.
 
